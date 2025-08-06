@@ -46,11 +46,11 @@ Identified Tropic Trooper (APT X), known for targeting government and military i
 Collected screenshots showing Tropic Trooper’s profile and TTPs from OpenCTI.
 
 📸 Screenshot Space - 
-1- 
-2-
-3-
-4-
-5-
+1- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%201%20-%20Identifying%20the%20Threat%20Actor.png) 
+2- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%201%20-%20Identifying%20the%20Threat%20Actor%20Pt%202..png) 
+3- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%201%20-%20Who's%20The%20Threat%3F.png) 
+4- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%201%20-%20Who's%20The%20Threat%3F%20Pt%202..png) 
+5- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%201%20-%20Who's%20The%20Threat%3F%20Pt%203..png) 
 
 ✏️ Task 2: Investigating USBferry Malware
 
@@ -77,8 +77,8 @@ T1082 – System Information Discovery
 T1120 – Peripheral Device Discovery
 
 📸 Screenshot Space - 
-1- 
-2-
+1-  ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%202%20-%20Investigate%20the%20Threat%20-%20USBferry%20-%20Process%20Discovery..png) 
+2- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%202%20-%20Investigate%20the%20Threat%20-%20USBferry%20-%20Peripheral%20Device%20Discovery%20Pt%202..png) 
 
 ✏️ Task 3: Mapping to MITRE ATT&CK
 
@@ -103,15 +103,13 @@ T1120 – Peripheral Device Discovery
 T1091 – Replication Through Removable Media
 
 📸 Screenshot Space - 
-1- 
-2-
-3-
-4-
-5-
-6-
-7-
-8-
-
+1- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20-%20T1082.png) 
+2- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20-%20T1082%20Pt%202.png) 
+3- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20T1120.png) 
+4- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20-%20T1120%20Pt%202..png) 
+5- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20T1091..png) 
+6- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20T1091%20Pt%202..png) 
+7- ![image alt](https://github.com/andre5Jr/soc-analyst-Threat-Intel-and-TTP-Mapping/blob/d3f465adb5af9fcdcf85efde2fd980b5dc1b2661/Task%203%20T1091%20Pt%203.png) 
 
 3. Analysis and Reflection
 
